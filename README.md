@@ -35,7 +35,7 @@
 
 <!-- Usage Examples -->
 ### Usage
-&#128073; First, [download](https://github.com/vyujitanaka/Manjaro-Post-Install-Script/archive/refs/heads/master.zip) the files.
+&#128073; First, [download](https://github.com/vyujitanaka/Manjaro-Post-Install-Script/archive/refs/heads/main.zip) the files.
 
 &#128073; Then extract the .sh files.
 
@@ -54,7 +54,7 @@
 ### Notes
 I recommend you run the scripts after you have freshly installed your manjaro-based operating system.
 
-The scripts were created specifically to meet my needs. So, if you want to change them to suit yours and/or share them with others, you can according to the [license](https://github.com/vyujitanaka/Manjaro-Post-Install-Script#license) of this project.
+The scripts were created specifically to meet my needs. So, if you want to change them to suit yours and/or share them with others, you can according to the [license](https://github.com/vyujitanaka/Manjaro-Post-Install-Script/blob/main/LICENSE) of this project.
 
 Before running the scripts, I strongly recommend that you study them and observe what they will update/install on your computer.
 
@@ -66,16 +66,7 @@ I am not responsible for possible errors that may occur on your computer. Keep i
 
 <!-- To Do -->
 <h2><strong>&#128221; To Do</strong></h2>
-<p>Add the programs below to the script to be downloaded:</p>
-<p>&#9723; BleachBit</p>
-<p>&#9723; Dropbox</p>
-<p>&#9723; GoogleChrome</p>
-<p>&#9723; LibreOfficeExtensions - LanguageTool</p>
-<p>&#9723; Sweet-Ambar-Blue Theme</p>
-<p>&#9723; Sweet-Dark Theme</p>
-<p>&#9723; WordPress</p>
-<p>&#9723; XAMPP</p>
-<p>&#9723; XtremeDownloadManager</p>
+<p>All done for now &#x1F913</p>
 
 <!-- License -->
 <h2><strong>&#9878; License</strong></h2>
